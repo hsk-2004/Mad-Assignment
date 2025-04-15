@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345385523823",
+    "project_id": "appactivitylifecycle",
+    "storage_bucket": "appactivitylifecycle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345385523823:android:7961ea28f72156d538cb9a",
+        "android_client_info": {
+          "package_name": "com.example.appactivitylifecycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgE-mt_kGG-KTdkhkJD3CZV6excWWiRzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
